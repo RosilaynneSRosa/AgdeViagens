@@ -1,0 +1,116 @@
+* {
+
+    margin: 0;
+
+}
+
+body {
+    min-height: 912px;
+    min-width: 1348px;
+}
+
+
+p{
+    color: rgb(255, 0, 140);
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    margin: 20px 20px;
+}
+
+.formas_pagamento{
+
+    color: #ff0080;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+h4{
+    color: #ff007a;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+ td a {
+    text-decoration: none;
+    color: white;
+       
+}
+
+td a:hover {
+    color:#ff0050;
+    transition: 0.3s;
+
+}
+.rosa {
+    display: flex;
+    justify-content: center;
+
+    
+
+}
+
+.titleDes {
+    text-align: center;
+    padding: 1,5rem;
+
+}
+.packages {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    
+
+}
+
+footer {
+    position: absolute;
+    margin-top: 100vh;
+    text-align: center;
+    
+}
+
+.pfoot {
+    margin:20px 20px 20px;
+    color: black;
+    
+}
+
+.forminput {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+}
+
+.forminput form {
+    margin-top: 10px;
+}
+
+.asidelist {
+    display: flex;
+   
+}
+
+.asidelist ol {
+    
+    margin-left: 30px;
+    border-radius: 5px;
+    padding-top: 2px;
+    border: 1px;
+    
+}
+
+.asidelist ol:hover{
+
+    border: 1px solid #ff007a;
+    transition: 0.7s;
+}
+
+
+.asidelist ol h1 {
+    position: inline-block;
+    margin-right: 30px;
+    
+}
